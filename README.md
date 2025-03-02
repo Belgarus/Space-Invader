@@ -1,33 +1,33 @@
 # 🚀 SAE-Institute Space Invaders C# Workshop
 
-Willkommen im Repository des **Space Invaders C# Workshops** des SAE-Instituts. Hier findest du sowohl das fertige Space Invader Projekt als auch den Quellcode, der im Workshop entstanden ist.
+Welcome to the repository for the **Space Invaders C# Workshop** at SAE-Institute. Here, you'll find both the completed Space Invaders project and the C# source code developed during the workshop.
 
 ---
 
-## 📂 Ordnerstruktur
+## 📂 Folder Structure
 
 - **Space Invader:**  
-  Enthält das finale Projekt – unser Ziel!
+  Contains the finished project – our goal achieved!
 
 - **Workshop Space Invader:**  
-  Im Ordner `Assets/Script` findest du den C#-Code, der während des Workshops entwickelt wurde.
+  In the `Assets/Script` folder, you'll find the C# code created during the workshop.
 
 ---
 
-## 🛠️ Verwendete Software
+## 🛠️ Software Used
 
 - **Visual Studio Tools:**  
-  Zum Entwickeln und Debuggen des C#-Codes.
+  For developing and debugging our C# code.
 
 - **Unity Engine:**  
-  Zum Erstellen und Ausführen unseres Space Invaders Spiels.
+  For building and running the Space Invaders game.
 
 ---
 
-## 🌐 Über das SAE-Institut
+## 🌐 About SAE-Institute
 
-Erfahre mehr über das [SAE-Institut](https://www.sae.edu/deu/).
+Learn more about the [SAE-Institute](https://www.sae.edu/deu/).
 
 ---
 
-Viel Spaß beim Stöbern und Entwickeln! 🎮
+Happy coding and enjoy exploring the project! 🎮
