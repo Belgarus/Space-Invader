@@ -1,4 +1,4 @@
-# 🚀 SAE-Institute Space Invaders C# Workshop
+# 👾 SAE-Institute Space Invaders C# Workshop
 
 Welcome to the repository for the **Space Invaders C# Workshop** at SAE-Institute. Here, you'll find both the completed Space Invaders project and the C# source code developed during the workshop.
 
