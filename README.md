@@ -30,4 +30,4 @@ Learn more about the [SAE-Institute](https://www.sae.edu/deu/).
 
 ---
 
-Happy coding and enjoy exploring the project! 🎮
+Happy coding and enjoy the project! 🎮
