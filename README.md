@@ -6,10 +6,10 @@ Welcome to the repository for the **Space Invaders C# Workshop** at SAE-Institut
 
 ## 📂 Folder Structure
 
-- **Space Invader:**  
+- **Space Invaders:**  
   Contains the finished project – our goal achieved!
 
-- **Workshop Space Invader:**  
+- **Workshop Space Invaders:**  
   In the `Assets/Script` folder, you'll find the C# code created during the workshop.
 
 ---
